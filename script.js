@@ -20,6 +20,10 @@ const quotes = [
         author: "Mae West"
     },
     {
+        quote: "An apple a day keeps everyone away, if you throw it hard enough",
+        author: "Neelima Sanapathi"
+    },
+    {
         quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
         author: "Nelson Mandela"
     }
